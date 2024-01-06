@@ -1,0 +1,22 @@
+{
+    "results":[
+        {
+            "check_id":"check_id",
+            "path":"path",
+            "extra":{
+                "severity":"severity",
+                "lines":"lines",
+                "message":"message"
+            }
+        },
+        {
+            "check_id":"check_id",
+            "path":"path",
+            "extra":{
+                "severity":"severity",
+                "lines":"lines",
+                "message":"message"
+            }
+        }
+    ]
+}
